@@ -1,0 +1,87 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/DerivedData/MainApp/Build/Products/Debug-iphonesimulator/Core/Core.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Core-Swift.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/DerivedData/MainApp/Build/Products/Debug-iphonesimulator/Core/Core.framework/Headers/Core-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Core-umbrella.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/Pods/Target Support Files/Core/Core-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/DerivedData/MainApp/Build/Products/Debug-iphonesimulator/Core/Core.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/DerivedData/MainApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Core.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/DerivedData/MainApp/Build/Products/Debug-iphonesimulator/Pods_MainApp.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-MainApp-umbrella.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/Pods/Target Support Files/Pods-MainApp/Pods-MainApp-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_MainApp-Swift.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/DerivedData/MainApp/Build/Products/Debug-iphonesimulator/Pods_MainApp.framework/Headers/Pods_MainApp-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/DerivedData/MainApp/Build/Products/Debug-iphonesimulator/Pods_MainApp.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/DerivedData/MainApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-MainApp.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/DerivedData/MainApp/Build/Products/Debug-iphonesimulator/module1/module1.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module1-Swift.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/DerivedData/MainApp/Build/Products/Debug-iphonesimulator/module1/module1.framework/Headers/module1-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "module1-umbrella.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/Pods/Target Support Files/module1/module1-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/DerivedData/MainApp/Build/Products/Debug-iphonesimulator/module1/module1.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/DerivedData/MainApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/module1.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

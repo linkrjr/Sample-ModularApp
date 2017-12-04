@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Nimble</string>
+	<string>Dispatch</string>
+	<string>Quick</string>
+	<string>CoreFoundation</string>
+	<string>CoreGraphics</string>
+	<string>module1</string>
+	<string>mach</string>
+	<string>dispatch</string>
+	<string>CDispatch</string>
+	<string>XCTest</string>
+	<string>Darwin</string>
+	<string>CwlCatchExceptionSupport</string>
+	<string>objc</string>
+	<string>UIKit</string>
+	<string>Foundation</string>
+	<string>CwlMachBadInstructionHandler</string>
+</array>
+</plist>

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "380353d8c96d12b3de0f101cf4e8aa19"
+build_time: [1512347637, 1558000]
+inputs:
+  "/Users/rgomes/Desktop/sample/module1/Example/Tests/Tests.swift": !dirty [1512347615, 0]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "df356c8ea4baee66b8cfd30bc87f6c13"
+build_time: [1512353015, 821519000]
+inputs:
+  "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/code/PluginManager.swift": !dirty [1512353015, 0]
+  "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Tests/Tests.swift": !dirty [1512352496, 0]
+  "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/code/TabBarBuilder.swift": !dirty [1512352994, 0]
+  "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/code/Dashboarder.swift": !dirty [9223372036, 854775807]

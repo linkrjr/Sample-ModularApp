@@ -1,0 +1,185 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Core/Core.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Core-Swift.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Core/Core.framework/Headers/Core-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Core-umbrella.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Target Support Files/Core/Core-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Core/Core.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Core.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Nimble/Nimble.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CwlCatchException.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Nimble/Carthage/Checkouts/CwlCatchException/Sources/CwlCatchExceptionSupport/include/CwlCatchException.h"
+        },
+        {
+          'type': 'file',
+          'name': "CwlMachBadInstructionHandler.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Nimble/Carthage/Checkouts/CwlPreconditionTesting/Sources/CwlMachBadInstructionHandler/include/CwlMachBadInstructionHandler.h"
+        },
+        {
+          'type': 'file',
+          'name': "CwlPreconditionTesting.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Nimble/Carthage/Checkouts/CwlPreconditionTesting/Sources/CwlPreconditionTesting/Mach/CwlPreconditionTesting.h"
+        },
+        {
+          'type': 'file',
+          'name': "DSL.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Nimble/Sources/NimbleObjectiveC/DSL.h"
+        },
+        {
+          'type': 'file',
+          'name': "NMBExceptionCapture.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Nimble/Sources/NimbleObjectiveC/NMBExceptionCapture.h"
+        },
+        {
+          'type': 'file',
+          'name': "NMBStringify.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Nimble/Sources/NimbleObjectiveC/NMBStringify.h"
+        },
+        {
+          'type': 'file',
+          'name': "Nimble-Swift.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Nimble/Nimble.framework/Headers/Nimble-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Nimble-umbrella.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Target Support Files/Nimble/Nimble-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Nimble.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Nimble/Sources/Nimble/Nimble.h"
+        },
+        {
+          'type': 'file',
+          'name': "mach_excServer.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Nimble/Carthage/Checkouts/CwlPreconditionTesting/Sources/CwlMachBadInstructionHandler/mach_excServer.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Nimble/Nimble.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Nimble.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Nimble/Nimble.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CurrentTestCaseTracker.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Nimble/Sources/NimbleObjectiveC/CurrentTestCaseTracker.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Pods_Core_Tests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Core_Tests-umbrella.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Target Support Files/Pods-Core_Tests/Pods-Core_Tests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Core_Tests-Swift.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Pods_Core_Tests.framework/Headers/Pods_Core_Tests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Pods_Core_Tests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-Core_Tests.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Quick/Quick.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "QCKDSL.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Quick/Sources/QuickObjectiveC/DSL/QCKDSL.h"
+        },
+        {
+          'type': 'file',
+          'name': "Quick-Swift.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Quick/Quick.framework/Headers/Quick-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Quick-umbrella.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Target Support Files/Quick/Quick-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Quick.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Quick/Sources/QuickObjectiveC/Quick.h"
+        },
+        {
+          'type': 'file',
+          'name': "QuickConfiguration.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Quick/Sources/QuickObjectiveC/Configuration/QuickConfiguration.h"
+        },
+        {
+          'type': 'file',
+          'name': "QuickSpec.h",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/Pods/Quick/Sources/QuickObjectiveC/QuickSpec.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Products/Debug-iphonesimulator/Quick/Quick.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/rgomes/Desktop/Sample-ModularApp/Core/Example/DerivedData/Core/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Quick.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

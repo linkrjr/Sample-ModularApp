@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "32527b10a7eb829fd28d17e0c1a60d38"
+build_time: [1512352602, 226402000]
+inputs:
+  "/Users/rgomes/Desktop/Sample-ModularApp/module1/module1/Classes/ReplaceMe.swift": !dirty [1512347615, 0]

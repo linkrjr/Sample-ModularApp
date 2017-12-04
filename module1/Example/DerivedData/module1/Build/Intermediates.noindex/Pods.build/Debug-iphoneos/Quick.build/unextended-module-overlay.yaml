@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/rgomes/Desktop/Sample-ModularApp/module1/Example/DerivedData/module1/Build/Products/Debug-iphoneos/Quick/Quick.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/rgomes/Desktop/Sample-ModularApp/module1/Example/DerivedData/module1/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Quick.build/unextended-module.modulemap',
+    }]
+  }]
+}

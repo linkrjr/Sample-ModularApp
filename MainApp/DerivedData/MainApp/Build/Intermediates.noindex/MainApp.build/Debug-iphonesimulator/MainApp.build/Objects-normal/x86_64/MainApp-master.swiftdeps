@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "be78de847b2188d4c5affab078578e59"
+build_time: [1512352535, 193757000]
+inputs:
+  "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/MainApp/ViewController.swift": [1512352235, 0]
+  "/Users/rgomes/Desktop/Sample-ModularApp/MainApp/MainApp/AppDelegate.swift": [1512352235, 0]
